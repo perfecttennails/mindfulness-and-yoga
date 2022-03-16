@@ -1,5 +1,6 @@
 # mindfulness-and-yoga
 <h1 align="center">Mindfulness and Yoga</h1>
+![image](https://user-images.githubusercontent.com/99834096/158677203-570e603d-a3a7-4c00-9bc3-b3ddafe01b40.png)
 
 
 <br></br>
