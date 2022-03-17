@@ -1,6 +1,8 @@
 # mindfulness-and-yoga
 <h1 align="center">Mindfulness and Yoga</h1>
 
+/workspace/mindfulness-and-yoga/images/Mindfulness-And-Yoga (2).png
+images/Mindfulness-And-Yoga (2).png
 
 <br></br>
 This is a website for yoga and meditation classes.
