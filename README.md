@@ -1,7 +1,9 @@
 # mindfulness-and-yoga
 <h1 align="center">Mindfulness and Yoga</h1>
 
-pictures of the site are in the image folder
+You can view the live site here;
+
+https://perfecttennails.github.io/mindfulness-and-yoga/index.html
 
 <br></br>
 This is a website for yoga and meditation site.
