@@ -1,17 +1,37 @@
 # mindfulness-and-yoga
-<h1 align="center">Mindfulness and Yoga</h1>
 
-You can view the live site here;
+You can view the live site [Here]
 
-https://perfecttennails.github.io/mindfulness-and-yoga/index.html
+(https://perfecttennails.github.io/mindfulness-and-yoga/index.html)
 
-<br></br>
+
 This is a website for yoga and meditation site.
 where the site’s users are interested in learning body/mind self-improvement techniques. 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential visitors.
-<br></br>
-<h2>Technique categories and supporting information</h2>
-On the home page are information about the different types of yoga and its benefits,
+
+## Design 
+- Colour Scheme
+The three main colours are used black, green and white.
+
 
 ## Navigation bar
 the navigation bar is black and a mouse over hover in white.
+
+
+## The landing page image
+-The landing includes photographs taken from freepik.com
+-This section introduces the user to different types of yoga and its benefits.
+
+## Yoga Page
+- Is an example of one yoga technique.
+- I was trying to creat a Read more/ Read less button... it will be added in the updated version soon.
+
+## Media
+the video on the meditation page is from Deepak Chopra on youtube.
+
+## The Footer
+- The footer section includes links to  social media sites . The links will open to a new tab to allow easy navigation for the user.
+
+## Languages Used
+- HTML5
+- CSS3
