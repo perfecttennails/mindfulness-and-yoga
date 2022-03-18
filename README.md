@@ -1,8 +1,6 @@
 # mindfulness-and-yoga
 
-You can view the live site [Here]
-
-(https://perfecttennails.github.io/mindfulness-and-yoga/index.html)
+You can view the live site [Here](https://perfecttennails.github.io/mindfulness-and-yoga/index.html)
 
 
 This is a website for yoga and meditation site.
@@ -35,3 +33,11 @@ the video on the meditation page is from Deepak Chopra on youtube.
 ## Languages Used
 - HTML5
 - CSS3
+
+## Frameworks, Libraries & Programs Used
+### Hover.css: 
+- Hover.css was used on the nav bar in the top to add a white transition while being hovered over.
+### Git:
+- Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+### GitHub:
+GitHub is used to store the projects code after being pushed from Git.
